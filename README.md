@@ -2,7 +2,8 @@ A cozy and inviting coffee shop website where customers can explore our menu, le
 
 Live link - https://saduamarasekara.github.io/Coffe-Shop/
 
-![Uploading Screenshot 2024-10-30 155916.png…]()
+![Screenshot 2024-10-30 155916](https://github.com/user-attachments/assets/e01c9e9f-eaf5-48b8-a7f6-1b61bdd2ba0e)
+
 
 
 
